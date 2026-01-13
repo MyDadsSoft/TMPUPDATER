@@ -1,4 +1,4 @@
 {
-  "version": "1.0.0.3",
+  "version": "1.0.3",
   "changelog": "[Main]\nFixed crash on game and crash on startup injection\n\n[Gui]\nLess \"in the way\" watermark\n\n[Truck]\nAdded \"Interior Buttons\" colour changer\nAdded \"Freeze Indicator\" option\n\n[Physics]\nReplaced \"Brake Boost\" with \"Super Brakes\""
 }
