@@ -1,4 +1,4 @@
 {
-  "version": "1.0.3",
-  "changelog": "[Main]\nFixed crash on game and crash on startup injection\n\n[Gui]\nLess \"in the way\" watermark\n\n[Truck]\nAdded \"Interior Buttons\" colour changer\nAdded \"Freeze Indicator\" option\n\n[Physics]\nReplaced \"Brake Boost\" with \"Super Brakes\""
+  "version": "1.0.5",
+  "changelog": "TruckersMP-FAAv2 | 1.0.5\nChange Log:\n[Main]\nAdded global exception handling, even if the cheat is outdated, or made incorrectly, your game should never crash\nImproved general code w/ bug fixes\nRemoved console for non debug builds, you can find the log in: \\bin\\win_x64\\TMPFAA.log\n\n[Spectate]\nAdded Fling button, USE WITH TRAILER DETATCHED!\n\n[Truck]\nAdded Spin feature\nAdded RGB Headlights\nAdded RGB Interior Buttons\nAdded Config\n\n[Physics]\nAdded teker mode\nAdded cabin gravity\nAdded chassis gravity\nAdded trailer gravity\nRemoved Extra Grip in favour for gravity\nWeakened Super Brakes so they are actually useable (still provides very good brake intensity)\nAdded Config\n\n[Camera]\nAdded Config\n\nConfigs are stored in: \\Documents\\TruckersMP-FAA\\configs\nYou can share your own in: ⁠configs"
 }
